@@ -1,0 +1,8 @@
+{
+    "name": "system/firebase",
+    "description": "Blood Bank",
+    "type": "project",
+    "license": "GNU3",
+    "minimum-stability": "dev",
+    "require": {}
+}

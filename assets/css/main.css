@@ -1,0 +1,460 @@
+
+.img-bg{
+
+    background-image: url("../imgs/images.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position: center;
+    height:100%;
+}
+.img-bg1{
+
+  background-image: url("../imgs/images.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-position: center;
+  height:150%;
+}
+.Donation{
+  margin-top: 9%;
+  background-image: url("../imgs/images.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-position: center;
+  height:130%;
+}
+.contactus{
+  margin-top: 9%;
+  background-image: url("../imgs/images.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-position: center;
+  height:130%;
+}
+.DonationNow{
+  margin-top: 9%;
+  background-image: url("../imgs/images.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-position: center;
+  height:200%;
+}
+.favorite{
+
+  background-image: url("../imgs/images.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-position: center;
+  height:200%;
+}
+.main-center-img{
+  height:70%;
+  border-radius: 50%;
+  position: relative;
+  left: 30%;
+  top:15%;
+
+}
+.img-bg-slider{
+  position: relative;
+  left: 38%;
+  top:10%;
+  background: white;
+  width: 27.5%;
+  height: 500px;
+}
+.img-bg-inside-slider{
+  width: 370px;
+}
+.slider-btn{
+  text-decoration: none;
+  color:darkred;
+  position: relative;
+  top:25%;
+  left: 300px;
+}
+.login-page{
+    background: white;
+    position: relative;
+    left: 30%;
+    top:6%;
+    width: 40%;
+    height: 90%;
+    border-radius: 20px;
+}
+.btn{
+  width: 50%;
+  height: 5%;
+  margin-bottom: 2%;
+  border-radius: 20px;
+  padding: 20px;
+  color: darkred;
+  font-weight: bolder;
+  direction: rtl;
+}
+.img-login-slider{
+  position: relative;
+  top:20px;
+  left: 20px;
+}
+.btn::placeholder{
+  color:darkred;
+}
+.form-login{
+  position: relative;
+  left: 25%;
+  top:60px;
+  border-radius: 20px;
+}
+.signup-page{
+  background: white;
+  position: relative;
+  left: 30%;
+  top:6%;
+  width: 40%;
+  height: 90%;
+  border-radius: 20px;
+  padding-right: 80px;
+}
+.signup-page1{
+  background: white;
+  position: relative;
+  left: 30%;
+  top:6%;
+  width: 40%;
+  height: 47%;
+  border-radius: 20px;
+  padding-right: 80px;
+}
+.btn-login{
+  position: relative;
+  width: 50%;
+  height: 7%;
+  border-radius: 20px;
+  color:white;
+  font-weight: bolder;
+  direction: rtl;
+  background-image: url("../imgs/images.jpg");
+  width: 150px;
+  top:70px;
+  right: 200px;
+  cursor: pointer;
+
+}
+.btn-login1{
+  position: relative;
+  width: 50%;
+  height: 7%;
+  border-radius: 20px;
+  color:white;
+  font-weight: bolder;
+  direction: rtl;
+  background-image: url("../imgs/images.jpg");
+  width: 150px;
+  top:70px;
+  right: 260px;
+  cursor: pointer;
+
+
+}
+.btn-login11{
+  position: relative;
+  width: 50%;
+  height: 6%;
+  border-radius: 20px;
+  color:white;
+  font-weight: bolder;
+  direction: rtl;
+  background-image: url("../imgs/images.jpg");
+  width: 150px;
+  top: 20px;
+  left: 90px;
+  cursor: pointer;
+
+
+}
+.lbl{
+  direction: rtl;
+  color: darkred;
+  display: block;
+  position: relative;
+  top:130px;
+  right: 200px;
+  font-weight: bolder;
+}
+.lbl1{
+  direction: rtl;
+  color: darkred;
+  display: block;
+  position: relative;
+  top:140px;
+  right: 180px;
+  font-weight: bolder;
+  cursor: pointer;
+
+}
+.lbl2{
+  direction: rtl;
+  color: darkred;
+  display: block;
+  position: relative;
+  bottom:30px;
+  right: 300px;
+  font-weight: bolder;
+  cursor: pointer;
+  display: block;
+
+}
+.lbl22{
+  direction: rtl;
+  color: darkred;
+  display: block;
+  position: relative;
+  bottom:30px;
+  left: 80px;
+  font-weight: bolder;
+  cursor: pointer;
+  display: block;
+
+}
+.lbl3{
+  direction: rtl;
+  color: darkred;
+  display: block;
+  position: relative;
+  right: 300px;
+  top:70px;
+  font-weight: bolder;
+  cursor: pointer;
+  display: block;
+
+}
+.btn-sign-up{
+  position: relative;
+  top:10px;
+  width: 70%;
+  height: 1px;
+  margin-bottom: 2%;
+  border-radius: 20px;
+  padding: 20px;
+  color: darkred;
+  font-weight: bolder;
+  direction: rtl;
+
+}
+.btn-sign-up1{
+  position: relative;
+  top:10px;
+  width: 35%;
+  height: 1px;
+  margin-bottom: 2%;
+  border-radius: 20px;
+  padding: 20px;
+
+  font-weight: bolder;
+  direction: rtl;
+}
+
+.custom-select{
+  margin-top: 10px;
+  direction: rtl;
+  width: 180px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 2px;
+  padding-right: 20px;
+  color: darkred;
+  font-weight:bolder;
+  position: relative;
+  left: 37%;
+  display: block;
+}
+.custom-select1{
+  direction: rtl;
+  width: 180px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 2px;
+  padding-right: 20px;
+  color: darkred;
+  font-weight:bolder;
+  position: relative;
+  left: 37%;
+  display: inline-block;
+}
+.custom-select111{
+  direction: rtl;
+  width: 180px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 2px;
+  padding-right: 20px;
+  color: darkred;
+  font-weight:bolder;
+  position: relative;
+  left: 17%;
+  display: inline-block;
+  margin-top: 7px;
+
+}
+.custom-select11{
+  direction: rtl;
+  width: 180px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 2px;
+  padding-right: 20px;
+  color: darkred;
+  font-weight:bolder;
+  position: relative;
+  left: 39%;
+  display: inline-block;
+  margin-top: 7px;
+
+}
+.custom-select2{
+  margin-top: 10px;
+  direction: rtl;
+  width: 180px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 2px;
+  padding-right: 20px;
+  color: darkred;
+  font-weight:bolder;
+  position: relative;
+  right: 34%;
+  display: inline-block;
+}
+.custom-select22{
+  margin-top: 10px;
+  direction: rtl;
+  width: 180px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 2px;
+  padding-right: 20px;
+  color: darkred;
+  font-weight:bolder;
+  position: relative;
+  right: 50%;
+  display: inline-block;
+}
+.btn-sign-up::placeholder{
+  color: darkred;
+}
+input::-webkit-inner-spin-button{
+  -webkit-appearance: none;
+}
+a{
+  text-decoration: none;
+  color: darkred;
+}
+.lnk{
+  color: darkred;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right:20px ;
+}
+.lnk:hover{
+  color: red;
+  text-decoration: none;
+}
+.posts{
+  background: white;
+  height: 49%;
+  width: 60%;
+  position: relative;
+  left: 20%;
+  top:9%;
+  border-radius: 20px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 25px;
+  color: darkred;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 25px;
+
+  color: darkred;
+}
+.slider-btn{
+  outline: darkred;
+  border: 2px solid darkred;
+  border-radius: 20px;
+  width: 170px;
+  padding: 10px;
+  position: relative;
+  bottom: 10px;
+  left: 250px;
+}
+.slider-btn:hover{
+  background: darkred;
+  color: white;
+}
+.Donation-body{
+  direction: rtl;
+  padding-top: 6%;
+  width: 20%;
+}
+.Donation-body form select{
+  position: relative;
+  display: inline-block;
+  left: 500px;
+  bottom: 35px;
+}
+.Donation-body form label{
+  position: relative;
+  display: inline-block;
+  left: 800px;
+  color: white;
+  font-weight: bolder;
+}
+.patients{
+
+  background: white;
+  height: 400px;
+
+  overflow-y: scroll;
+
+}
+.patient{
+
+  margin: 10px;
+  background: white;
+  border: 2px solid darkred;
+  border-radius: 20px;
+  height: 80%;
+  width: 14%;
+  display: inline-block;
+  position: relative;
+  top: 30px;
+
+}
+.bloadType{
+  height: 100px;
+  border-radius: 50%;
+}
+table{
+  direction: rtl;
+}
+.Conus{
+  color: red;
+  background: blue;
+  width: 100px;
+  height: 200px;
+}
