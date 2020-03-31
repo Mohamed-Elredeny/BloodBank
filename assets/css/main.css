@@ -16,7 +16,7 @@
   height:150%;
 }
 .Donation{
-  margin-top: 9%;
+
   background-image: url("../imgs/images.jpg");
   background-repeat:no-repeat ;
   background-size: cover;
@@ -24,7 +24,7 @@
   height:130%;
 }
 .contactus{
-  margin-top: 9%;
+
   background-image: url("../imgs/images.jpg");
   background-repeat:no-repeat ;
   background-size: cover;
@@ -32,7 +32,7 @@
   height:130%;
 }
 .DonationNow{
-  margin-top: 9%;
+
   background-image: url("../imgs/images.jpg");
   background-repeat:no-repeat ;
   background-size: cover;
@@ -46,6 +46,22 @@
   background-size: cover;
   background-position: center;
   height:200%;
+}
+.about{
+
+   background-image: url("../imgs/images.jpg");
+   background-repeat:no-repeat ;
+   background-size: cover;
+   background-position: center;
+   height:100%;
+ }
+.editdet{
+
+  background-image: url("../imgs/images.jpg");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-position: center;
+  height:100%;
 }
 .main-center-img{
   height:70%;
@@ -64,14 +80,15 @@
   height: 500px;
 }
 .img-bg-inside-slider{
-  width: 370px;
+  width: 90%;
+  width: 100%;
 }
 .slider-btn{
   text-decoration: none;
   color:darkred;
   position: relative;
-  top:25%;
-  left: 300px;
+  top:20%;
+
 }
 .login-page{
     background: white;
@@ -428,7 +445,6 @@ a{
 
   background: white;
   height: 400px;
-
   overflow-y: scroll;
 
 }
@@ -452,9 +468,66 @@ a{
 table{
   direction: rtl;
 }
+lnk:hover{
+    border: 0px solid white;
+}
 .Conus{
-  color: red;
-  background: blue;
-  width: 100px;
-  height: 200px;
+  display: block;
+  position: relative;
+  width: 70%;
+  background: white;
+  height: 60%;
+  top:12.5%;
+  left: 13.5%;
+  border-radius: 10px;
+
+}
+.edit-personal-det{
+  display: block;
+  width: 70%;
+  height: 70%;
+  background: white;
+  position: relative;
+  top: 20%;
+  left: 15%;
+  border-radius: 20px;
+  direction: ltr;
+
+}
+.Edit-Header{
+  position: relative;
+  display: inline-block;
+  top: 2%;
+  left: 45%;
+  font-size:20px;
+  color: darkred;
+  font-weight: bolder;
+}
+.edt-form{
+  display: block;
+  position: relative;
+  left:30%;
+  top:5%;
+  color: darkred;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.edit-group input,.edit-group select{
+  width: 25%;
+  margin-right: 2%;
+}
+.img-homePage{
+  width: 90%;
+  height: 60%;
+  margin-bottom: 5%;
+}
+.edit-personal-det .about-project{
+  position: relative;
+  color: darkred;
+  font-weight: bolder;
+  font-size: 25px;
+  width: 50%;
+  direction: rtl;
+  right: 20%;
+  top:20%;
 }

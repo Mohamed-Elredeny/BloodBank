@@ -1,0 +1,18 @@
+.header-Conus{
+
+   position: relative;
+    color: darkred;
+    left: 45%;
+    top:2%;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.Conus table{
+    width:50%;
+   text-align: center;
+    position: relative;
+    left: 25%;
+    top:5%;
+
+    overflow: scroll;
+}

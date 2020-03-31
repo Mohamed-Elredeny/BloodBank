@@ -1,18 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19d87845-b6cc-4446-9e48-e13c95ca8e39" name="Default Changelist" comment="" />
+    <list default="true" id="19d87845-b6cc-4446-9e48-e13c95ca8e39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/fetch/governWithBlood.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/fetch/patient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Blood Bank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Blood Bank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/homePage.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/homePage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Blood Bank" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/superbalist/flysystem-google-storage" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-core" />
+      <path value="$PROJECT_DIR$/vendor/google/cloud-storage" />
+      <path value="$PROJECT_DIR$/vendor/google/crc32" />
+      <path value="$PROJECT_DIR$/vendor/kreait/clock" />
+      <path value="$PROJECT_DIR$/vendor/kreait/firebase-php" />
+      <path value="$PROJECT_DIR$/vendor/kreait/firebase-tokens" />
+      <path value="$PROJECT_DIR$/vendor/kreait/gcp-metadata" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/giggsey/libphonenumber-for-php" />
+      <path value="$PROJECT_DIR$/vendor/giggsey/locale" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1ZKDbFJeSgflv5328LSGICESmCS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,9 +81,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVC" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,6 +120,11 @@
       <workItem from="1584638010146" duration="14634000" />
       <workItem from="1584729704056" duration="2048000" />
       <workItem from="1584798828154" duration="608000" />
+      <workItem from="1585467158958" duration="2567000" />
+      <workItem from="1585616438619" duration="9621000" />
+      <workItem from="1585633425283" duration="12083000" />
+      <workItem from="1585656439355" duration="5430000" />
+      <workItem from="1585672285040" duration="14493000" />
     </task>
     <servers />
   </component>
@@ -69,21 +136,62 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584799456797" />
-    <state x="59" y="18" width="1121" height="708" key="SettingsEditor" timestamp="1584799400656">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1879" y="140" key="RollbackChangesDialog" timestamp="1585643167237">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
+    <state x="1879" y="140" key="RollbackChangesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585643167237" />
+    <state x="1428" y="21" width="1121" height="708" key="SettingsEditor" timestamp="1585617189650">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1428" y="21" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585617189650" />
     <state x="59" y="18" width="1121" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584799400656" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584799095846">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1766" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1585672284972">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
+    <state x="1644" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1585656502264" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585617128664" />
+    <state x="1766" y="221" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585672284972" />
     <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584799095846" />
+    <state x="1544" y="445" width="1159" height="815" maximized="true" key="dock-window-1" timestamp="1585678206226">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1544" y="445" width="1159" height="815" maximized="true" key="dock-window-1/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585678206226" />
+    <state x="169" y="377" width="1159" height="815" maximized="true" key="dock-window-1/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585673780849" />
+    <state x="1366" y="0" width="1089" height="867" maximized="true" key="dock-window-2" timestamp="1585618343985">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1366" y="0" width="1089" height="867" maximized="true" key="dock-window-2/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585618343985" />
+    <state x="1411" y="278" width="1089" height="716" maximized="true" key="dock-window-3" timestamp="1585621621940">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1411" y="278" width="1089" height="716" maximized="true" key="dock-window-3/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1585621621940" />
     <state x="298" y="200" width="756" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584799256738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="298" y="200" width="756" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1584799256738" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1584608678564">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1723" y="191" key="run.anything.popup" timestamp="1585624706262">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
+    <state x="1723" y="191" key="run.anything.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585624706262" />
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584608678564" />
+    <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1585634642882">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1585634642882" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/php/Functions.php</url>
+          <line>91</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\request" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

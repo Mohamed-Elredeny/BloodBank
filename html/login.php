@@ -1,4 +1,6 @@
 <?php
+    require '../php/Functions.php';
+    login('phone','password','login');
 ?>
 <html>
 <head>
@@ -12,7 +14,7 @@
             <div class="form-login">
                 <input type="text" name="phone" class="btn" placeholder="الجوال">
                 <input type="text" name="password" class="btn" placeholder="كلمه المرور">
-            <a href="homePage.php" > <input type="button" class="btn-login" value="دخول"></a>
+            <a href="homePage.php" > <input type="submit" class="btn-login" value="دخول" name="login"></a>
             </div>
             <a href=""> <label class="lbl">هل نسيت كلمه السر؟</label></a>
             <a href="signup.php" ><label class="lbl1">لا تمتلك حساب؟ سجل من هنا</label></a>
